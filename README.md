@@ -1,8 +1,4 @@
-# Pizza-Restaurant
-Creating a well-written README is crucial for documenting your project and helping others understand its purpose and usage. Here's a template for a well-structured README file for your Flask Pizza Restaurant API:
-
-# Pizza Restaurant Flask API
-
+# Pizza-Reeurant Flask API
 ## Table of Contents
 
 - [Introduction](#introduction)
