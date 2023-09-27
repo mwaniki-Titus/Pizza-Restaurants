@@ -3,6 +3,8 @@ from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy_serializer import SerializerMixin
 from flask import make_response,jsonify
 
+
+
 db=SQLAlchemy()
 
 

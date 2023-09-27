@@ -1,5 +1,4 @@
-from api.models import Pizza,Restaurant,RestaurantPizza
-from api.models import db
+from api.models import Pizza,Restaurant,RestaurantPizza,db
 from api.app import api
 from flask_restful import Resource
 from flask import make_response,request,jsonify
